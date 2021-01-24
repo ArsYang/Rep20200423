@@ -7,3 +7,5 @@ arthur1  1
 arthur1  2
 arthur1  3
 >>>>>>> .theirs
+
+arthur2 6
