@@ -9,3 +9,4 @@ arthur1  3
 >>>>>>> .theirs
 
 arthur2 6
+arthur2 7
