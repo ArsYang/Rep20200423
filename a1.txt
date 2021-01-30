@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 arthur1  1
 arthur1  2
 arthur1  3
@@ -14,3 +15,8 @@ arthur 13
 arthur 14
 arthur 15
 arthur 16
+=======
+arthur6 modify
+1
+2
+>>>>>>> remotes/origin/arthur6
