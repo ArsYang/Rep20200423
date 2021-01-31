@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 arthur1  1
 arthur1  2
 arthur1  3
@@ -22,3 +23,17 @@ arthur6 modify
 2
 >>>>>>> remotes/origin/arthur6
 modify 1
+=======
+<<<<<<< .mine
+arthur2 asdfasdfs
+
+
+=======
+arthur1  1
+arthur1  2
+arthur1  3
+>>>>>>> .theirs
+
+arthur2 6
+arthur2 7
+>>>>>>> remotes/origin/arthur2
