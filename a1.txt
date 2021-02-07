@@ -1,8 +1,4 @@
 arthur1 modify
 arthur2 modify
 arthur3 modfiy
-<<<<<<< HEAD
 arthur4 modfiy
-=======
-arthur4 modify
->>>>>>> 83443f43cab75faad092a20f7d0464bfbd00e9c8
