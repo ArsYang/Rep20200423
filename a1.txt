@@ -38,7 +38,18 @@ arthur6 modify
 modify 1
 2021/02/07 modify 123478900-=
 fileghijkjm,.;',.'
+<<<<<<< HEAD
+====================
+
+asdfasd
+
+arthur1 modify
+=======
 >>>>>>> b9d0772ce43913a56c181ff8705faaf0b50b2122
+<<<<<<< HEAD
 
 
 arthur2 modify
+=======
+>>>>>>> 59f2e5c9f4e0db5afd075ee709ef23ce4c4b3006
+>>>>>>> e32931701c246556b3d4813c3a3e56a3de245e38
