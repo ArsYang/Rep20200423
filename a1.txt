@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< .mine
 arthur2 asdfasdfs
 
@@ -10,3 +11,31 @@ arthur1  3
 
 arthur2 6
 arthur2 7
+=======
+<<<<<<< HEAD
+arthur1  1
+arthur1  2
+arthur1  3
+arthur1  4
+arthur1  5
+arthur1  7
+=======
+arthur2   6
+arthur1 8
+arthur1 9
+arthur1 10
+arthur 11
+arthur 13
+arthur 14
+arthur
+asdfasdf 15
+arthur 16
+=======
+arthur6 modify
+1
+2
+>>>>>>> remotes/origin/arthur6
+modify 1
+2021/02/07 modify 123478900-=
+fileghijkjm,.;',.'
+>>>>>>> b9d0772ce43913a56c181ff8705faaf0b50b2122
