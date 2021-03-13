@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+
+<<<<<<< HEAD
 arthur1  1
 arthur1  2
 arthur1  3
@@ -37,3 +39,13 @@ arthur1  3
 arthur2 6
 arthur2 7
 >>>>>>> remotes/origin/arthur2
+=======
+arthur1 modify
+arthur2 modify
+arthur3 modfiy
+arthur4 modfiy
+arthur5 modify
+arthur6 modify
+
+20210306 modify
+>>>>>>> 5684b207f86faf13b1bab8644d9868b81ce72542

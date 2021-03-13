@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-asdasd
-
-asdfasdfsars
-=======
-ars
-aaaa
->>>>>>> 1ddaedff5adbad81a90f6d0fa688a225ee5777fb
