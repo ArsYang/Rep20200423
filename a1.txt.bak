@@ -9,7 +9,8 @@ arthur6 modify
 20210312 modify
 20231209 modify
 
-
+<<<<<<< HEAD
 a1-1
+=======
 a1-2
->>>>>>> remotes/origin/arthur1
+>>>>>>> remotes/origin/arthur2
