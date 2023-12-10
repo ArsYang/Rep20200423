@@ -12,4 +12,4 @@ arthur6 modify
 
 a1-1
 a1-2
->>>>>>> remotes/origin/arthur1
+
