@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-arthur1
-=======
-A4 add
->>>>>>> remotes/origin/arthur2
