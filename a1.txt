@@ -23,5 +23,9 @@ a1-10
 
 a1-11
 
+<<<<<<< HEAD
 a1-15
+=======
+a1-16
+>>>>>>> remotes/origin/arthur2
 
