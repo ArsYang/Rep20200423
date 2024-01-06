@@ -18,8 +18,13 @@ a1-3
 a1-4
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 a1-5
 =======
 
 a1-11
 >>>>>>> remotes/origin/arthur2
+=======
+a1-10
+
+>>>>>>> remotes/origin/arthur1
